@@ -1,4 +1,4 @@
-module vimagination.zapto.org/dos2unix
+module github.com/pedroalbanese/dos2unix
 
 go 1.16
 
